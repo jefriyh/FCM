@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380620186368",
+    "firebase_url": "https://laktasiaweb.firebaseio.com",
+    "project_id": "laktasiaweb",
+    "storage_bucket": "laktasiaweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380620186368:android:0669f390009f2870",
+        "android_client_info": {
+          "package_name": "com.crocias.firebasenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380620186368-6ib23npurm76irotoeeah2bbhocqpgv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crocias.firebasenotif",
+            "certificate_hash": "e1965a73381a81c4e20ade712077f3bbc207e78a"
+          }
+        },
+        {
+          "client_id": "380620186368-8fb9vmfbp9npdo8394367gl12ekoqlqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHN-fyzdKpKgDgzKywHdw5Afct1wR081E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380620186368-8fb9vmfbp9npdo8394367gl12ekoqlqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
