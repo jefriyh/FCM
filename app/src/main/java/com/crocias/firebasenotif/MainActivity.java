@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //getting views from xml
         editTextEmail = (EditText) findViewById(R.id.editTextEmail);
         buttonRegister = (Button) findViewById(R.id.buttonRegister);
-
         //adding listener to view
         buttonRegister.setOnClickListener(this);
     }
